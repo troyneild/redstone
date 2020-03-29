@@ -1,0 +1,23 @@
+h1{
+    color: green;
+    font-size: 100px;
+    font-family: 'Arial';
+}
+
+.box{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#redbox{
+    background-color: red;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    margin: 100px auto;
+    
+}
